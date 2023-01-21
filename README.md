@@ -36,25 +36,60 @@ El Teorema de transferencia de energía máxima establece que la cantidad máxim
 
 El teorema de transferencia de potencia máxima no satisface el objetivo de máxima eficiencia.
 
-- Procedimiento.-
+  - Procedimiento.-
 
     ![image](https://user-images.githubusercontent.com/116833964/213584623-91f47cfa-907e-4175-8226-48eeb94287fc.png)
     
-    - 6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
+        - 6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
     
-    - 6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+    ![e1adfd693fcd2017f2e3370dbe591bbc-0](https://user-images.githubusercontent.com/116833964/213823841-8fbed583-de4f-4e66-8113-9e5204d84162.jpg)
+    ![e1adfd693fcd2017f2e3370dbe591bbc-1](https://user-images.githubusercontent.com/116833964/213823847-91aa9c63-f398-4e77-88bc-465ad1e71cd0.jpg)
+    ![e1adfd693fcd2017f2e3370dbe591bbc-2](https://user-images.githubusercontent.com/116833964/213823854-58ed0559-3179-4cea-af9d-6e46764d9cbf.jpg)
+![e1adfd693fcd2017f2e3370dbe591bbc-3](https://user-images.githubusercontent.com/116833964/213823996-07881c94-180b-4426-a25f-e2146f6c3be8.jpg)
+![e1adfd693fcd2017f2e3370dbe591bbc-4](https://user-images.githubusercontent.com/116833964/213824009-742808c0-faec-4c96-b47c-c2e0cf9f0397.jpg)
 
-    - 6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
+        - 6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+    
+![e1adfd693fcd2017f2e3370dbe591bbc-5](https://user-images.githubusercontent.com/116833964/213824689-49e3bd60-760a-49ba-ab9e-bce0cc98ceaa.jpg)
+![e1adfd693fcd2017f2e3370dbe591bbc-6](https://user-images.githubusercontent.com/116833964/213824703-8685aba0-6fe2-4cc2-905f-6e2741fb106e.jpg)
+
+     - 6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
+    
+    
+![image](https://user-images.githubusercontent.com/116833964/213824209-26cf22d4-640d-4732-a3e8-cbdbdef467dc.png)
+![image](https://user-images.githubusercontent.com/116833964/213824293-d38ea983-0a3e-4556-bd1e-9b15127c4bf9.png)
+![image](https://user-images.githubusercontent.com/116833964/213824329-cf3e85ae-7029-41da-bcfc-4a337f43c544.png)
+![image](https://user-images.githubusercontent.com/116833964/213824357-f3714bfc-ae0d-4b33-86e5-e2c10b444267.png)
+![image](https://user-images.githubusercontent.com/116833964/213824385-c52bb985-f8d9-4c6b-8e00-aa060e2f89f4.png)
+![image](https://user-images.githubusercontent.com/116833964/213824408-0f35641c-1c15-47b7-81a5-f1f7496dda23.png)
+![image](https://user-images.githubusercontent.com/116833964/213824445-6a2de833-a10d-4487-a9e9-8069fff8ccb9.png)
+![image](https://user-images.githubusercontent.com/116833964/213824481-befb2d85-cd3c-43b5-afb5-e5c861715e83.png)
+![image](https://user-images.githubusercontent.com/116833964/213824508-813349d3-aa75-447b-8c2a-97de1f62b95e.png)
+![image](https://user-images.githubusercontent.com/116833964/213824612-6faf0b82-2309-46ef-82dd-7e5886c3482a.png)
+
+Anote los resultados medidos.
+
+![e1adfd693fcd2017f2e3370dbe591bbc-7](https://user-images.githubusercontent.com/116833964/213824170-0a19f1bf-5a7b-48ce-aa85-fc677d1f13b6.jpg)
 
     - 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+    
+   R: Si cumple con el teorema ya que los cálculos sacados son iguales a los simulados, estos contienen un pequeño calculo de erros pero si son cálculos buenos ya que la diferencia solo son por decimales 
 
-    - 6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts
+     - 6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts
+    
+   Es de 0.048 W
 
-    - 6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+     - 6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+    
+   Es de 1000 Ω
 
-    - 6.5.7. Grafique la curva Potencia vs RL y comente.
+     - 6.5.7. Grafique la curva Potencia vs RL .
+
+![image](https://user-images.githubusercontent.com/116833964/213825447-65d1d898-27be-4406-b8cc-c568d8b71453.png)
 
 Calcular errores de las mediciones y comentar los resultados.
+
+![image](https://user-images.githubusercontent.com/116833964/213825226-32e8a606-fb28-42c7-9000-f50abaccde7c.png)
 
 - Conclusion.-
 
